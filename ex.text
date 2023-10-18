@@ -1,0 +1,11 @@
+# Requirements
+
+- Create a repo named "lucky"
+- using the ini file
+    - count the number of letters [a-z,A-Z]
+    - count the amount of numbers [0-9]
+-create a output file (output.txt)
+    - contain those counts
+-use source control with appropriate commits
+- use zip function in github to create zip file
+-provide in like with your username in D2L
